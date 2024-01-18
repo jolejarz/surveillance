@@ -1,0 +1,1 @@
+void calculate (double f, void (*r_p_c2_set)(short int, double, double, double, double*, double*, double*), double lambda, double c1, int n, int N, short int n_sq, double phi, double *avg, double *stderror);
